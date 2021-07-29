@@ -1,4 +1,4 @@
-# Ball Paasing game
+# Ball Passing game
 
 A simple C program using Circular Linked list simulating a ball passing game.
 
